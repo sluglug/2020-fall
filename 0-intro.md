@@ -29,7 +29,7 @@ Not required:
 -------------
 - Prior knowledge or experience
 
-Topics
+Topics (not final, subject to change)
 ======
 - Command line basics
 - Changing your environment
@@ -40,6 +40,18 @@ Topics
 - Customizing and extending vim
 - Documents with troff/pandoc
 - Getting help and learning more
+- Using git for version control
+- Something else (let us know if you have suggestions or want to present)
+
+`$ whoami`
+==========
+Dennis Lee
+----------
+- Your benevolent dictator^†^
+- Rising UCSC sophomore
+- Computer Science major
+
+^†^common term for open-source leaders
 
 Find us
 =======
